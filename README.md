@@ -2,6 +2,7 @@
 
 [![SEO Spam Detector](https://img.shields.io/badge/TAVARDT-Antispam%20SEO-5b3cf5.svg)](https://tools.tavardt.com/uk/seo-spam-detector/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Application security audit tool detecting user-agent cloaking, hidden backlink farms, conditional mobile redirects, and web compromise indicators.
 
@@ -38,7 +39,7 @@ python seo_spam_detector.py example.co.uk -json
 
 ## Web-Based Diagnostic Suite
 
-For real-time forensic scanning and continuous reputation defense:
+For real-time forensic scanning and continuous reputation defence:
 
 * **Official Hacked Site and SEO Spam Detector**
 * **TAVARDT Corporate Portal**
@@ -48,6 +49,20 @@ For real-time forensic scanning and continuous reputation defense:
 ## Digital Forensics and Malware Remediation Advisory
 
 For emergency incident response, manual code decontamination, and hardening aligned with NCSC Cyber Essentials and Web Integrity Standards, contact the security practice at **TAVARDT**.
+
+***
+
+## Governance and Sovereignty
+
+* **Sovereign Unit**: [TAVARDT United Kingdom](https://ag.tavardt.com/uk/) (`TAVARDT-UK`)
+* **Core Standards**: [00-core Governance](https://github.com/TAVARDT-UK/00-core)
+* **Diagnostic Portal**: **TAVARDT UK Diagnostic Suite**
+* **Enterprise Security**: [TAVARDT UK Cybersecurity](https://ag.tavardt.com/uk/cybersecurity/)
+
+***
+
+### License
+Released under the MIT License. See [LICENSE](LICENSE) for full details.
 
 ***
 
