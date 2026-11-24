@@ -1,14 +1,13 @@
 # Hacked Site and SEO Spam Detector | TAVARDT UK
 
 [![SEO Spam Detector](https://img.shields.io/badge/TAVARDT-Antispam%20SEO-5b3cf5.svg)](https://tools.tavardt.com/uk/seo-spam-detector/)
-[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-United%20Kingdom-00C853.svg)](https://ag.tavardt.com/uk/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Application security audit tool detecting user-agent cloaking, hidden backlink farms, conditional mobile redirects, and web compromise indicators.
 
-Engineered and maintained by the incident response and forensic security group at **[TAVARDT UK](https://ag.tavardt.com/uk/)**.
+Engineered and maintained by the incident response and forensic security group at **TAVARDT UK**.
 
----
+***
 
 ## Forensic Audit and SEO Compromise Capabilities
 
@@ -17,7 +16,7 @@ Engineered and maintained by the incident response and forensic security group a
 * **Conditional Malicious Redirects**: Automated tracking of evasive redirection rules tailored to search referrers or mobile screen resolutions.
 * **Forensic Integrity Benchmark**: Reproducible 0 to 100 scoring with prioritised mitigation and site cleanup procedures.
 
----
+***
 
 ## Installation and Execution
 
@@ -32,20 +31,20 @@ python seo_spam_detector.py example.co.uk
 To output structured JSON:
 
 ```bash
-python seo_spam_detector.py example.co.uk --json
+python seo_spam_detector.py example.co.uk -json
 ```
 
----
+***
 
 ## Web-Based Diagnostic Suite
 
 For real-time forensic scanning and continuous reputation defense:
 
-* **[Official Hacked Site and SEO Spam Detector](https://tools.tavardt.com/uk/seo-spam-detector/)**
-* **[TAVARDT UK Corporate Portal](https://ag.tavardt.com/uk/)**
+* **Official Hacked Site and SEO Spam Detector**
+* **TAVARDT UK Corporate Portal**
 
----
+***
 
 ## Digital Forensics and Malware Remediation Advisory
 
-For emergency incident response, manual code decontamination, and hardening aligned with NCSC Cyber Essentials and Web Integrity Standards, contact the security practice at **[TAVARDT UK](https://ag.tavardt.com/uk/contact/)**.
+For emergency incident response, manual code decontamination, and hardening aligned with NCSC Cyber Essentials and Web Integrity Standards, contact the security practice at **TAVARDT UK**.
