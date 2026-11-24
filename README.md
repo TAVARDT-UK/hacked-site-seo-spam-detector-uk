@@ -5,7 +5,7 @@
 
 Application security audit tool detecting user-agent cloaking, hidden backlink farms, conditional mobile redirects, and web compromise indicators.
 
-Engineered and maintained by the incident response and forensic security group at **TAVARDT UK**.
+Engineered and maintained by the incident response and forensic security group at **TAVARDT**.
 
 ***
 
@@ -41,13 +41,13 @@ python seo_spam_detector.py example.co.uk -json
 For real-time forensic scanning and continuous reputation defense:
 
 * **Official Hacked Site and SEO Spam Detector**
-* **TAVARDT UK Corporate Portal**
+* **TAVARDT Corporate Portal**
 
 ***
 
 ## Digital Forensics and Malware Remediation Advisory
 
-For emergency incident response, manual code decontamination, and hardening aligned with NCSC Cyber Essentials and Web Integrity Standards, contact the security practice at **TAVARDT UK**.
+For emergency incident response, manual code decontamination, and hardening aligned with NCSC Cyber Essentials and Web Integrity Standards, contact the security practice at **TAVARDT**.
 
 ***
 
