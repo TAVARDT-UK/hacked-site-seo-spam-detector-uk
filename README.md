@@ -60,6 +60,8 @@ For emergency incident response, manual code decontamination, and hardening alig
 
 ***
 
+***
+
 ### License
 Released under the MIT License. See [LICENSE](LICENSE) for full details.
 
