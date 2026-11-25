@@ -6,8 +6,6 @@
 
 Application security audit tool detecting user-agent cloaking, hidden backlink farms, conditional mobile redirects, and web compromise indicators.
 
-Engineered and maintained by the incident response and forensic security group at **TAVARDT**.
-
 ***
 
 ## Forensic Audit and SEO Compromise Capabilities
@@ -37,15 +35,6 @@ python seo_spam_detector.py example.co.uk -json
 
 ***
 
-## Web-Based Diagnostic Suite
-
-For real-time forensic scanning and continuous reputation defence:
-
-* **Official Hacked Site and SEO Spam Detector**
-* **TAVARDT Corporate Portal**
-
-***
-
 ## Digital Forensics and Malware Remediation Advisory
 
 For emergency incident response, manual code decontamination, and hardening aligned with NCSC Cyber Essentials and Web Integrity Standards, contact the security practice at **TAVARDT**.
@@ -63,7 +52,7 @@ For emergency incident response, manual code decontamination, and hardening alig
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
